@@ -1,0 +1,24 @@
+node {
+    size: 10px;
+    fill-color: blue;
+}
+
+.edge.lanes-1 {
+    size: 1px;
+    fill-color: black;
+}
+
+.edge.lanes-2 {
+    size: 2px;
+    fill-color: green;
+}
+
+.edge.lanes-3 {
+    size: 3px;
+    fill-color: yellow;
+}
+
+.edge.lanes-4 {
+    size: 4px;
+    fill-color: red;
+}
